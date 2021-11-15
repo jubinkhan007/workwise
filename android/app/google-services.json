@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729928342267",
+    "project_id": "work-wise-95930",
+    "storage_bucket": "work-wise-95930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729928342267:android:0c97f32523551ac22b6e5e",
+        "android_client_info": {
+          "package_name": "com.example.workwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729928342267-dvlhrf5vlugqb1kjn3d3g2i7r6udqanq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPbzhajdiWK4y_lmYziYR42w0MayupmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729928342267-dvlhrf5vlugqb1kjn3d3g2i7r6udqanq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
